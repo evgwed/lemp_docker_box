@@ -1,0 +1,6 @@
+app/*
+!app/.gitkeep
+app_data/*
+!app_data/.gitkeep
+app_logs/*
+!app_logs/.gitkeep
